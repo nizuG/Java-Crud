@@ -1,1 +1,1 @@
-Projeto desenvolvido em localhost no Netbenas com tomcat 9 e java 21
+Projeto desenvolvido em localhost no Netbeans com tomcat 9 e java 21
